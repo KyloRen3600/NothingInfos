@@ -1,3 +1,4 @@
 {
-	"YTDOWNLOADER": "https://raw.githubusercontent.com/nothinggames/YouTubeDownloader/master/YouTubeDownloader.json"
+	"YTDOWNLOADER": "https://raw.githubusercontent.com/nothinggames/YouTubeDownloader/master/YouTubeDownloader.json",
+	"NOTHINGCLICK": "https://raw.githubusercontent.com/nothinggames/NothingClick/master/NothingClick.json"
 }
